@@ -5,12 +5,12 @@
       "widgetId": "asciiprofile-portrait",
       "name": "Asciiprofile-portrait Widget",
       "position": {
-        "x": 48,
-        "y": 40
+        "x": 8,
+        "y": 16
       },
       "size": {
-        "width": 288,
-        "height": 312
+        "width": 352,
+        "height": 336
       },
       "config": {
         "accentColor": "#ffa657",
@@ -11505,12 +11505,12 @@
       "widgetId": "asciiprofile-info",
       "name": "Asciiprofile-info Widget",
       "position": {
-        "x": 330,
-        "y": 42
+        "x": 328,
+        "y": 16
       },
       "size": {
-        "width": 456,
-        "height": 312
+        "width": 472,
+        "height": 336
       },
       "config": {
         "accentColor": "#ffa657",
@@ -11528,11 +11528,11 @@
       "widgetId": "asciiprofile-heatmap",
       "name": "Asciiprofile-heatmap Widget",
       "position": {
-        "x": 48,
+        "x": 28,
         "y": 368
       },
       "size": {
-        "width": 704,
+        "width": 744,
         "height": 240
       },
       "config": {
@@ -11564,12 +11564,12 @@
     "padding": 24,
     "themeMode": "dark",
     "templateStyle": "ascii_native",
-    "transparentBackground": true
+    "transparentBackground": false
   },
   "templateId": "ascii_native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795081251558_jf2pu",
-    "updatedAt": "2026-11-19T09:40:55.871Z"
+    "revision": "rev_1795081389605_7cs49",
+    "updatedAt": "2026-11-19T09:43:13.402Z"
   }
 }
